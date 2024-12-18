@@ -1,0 +1,9 @@
+E:\PROJECT\Kursovaja ChromeDino\Dino\obj\Debug\Dino.csproj.AssemblyReference.cache
+E:\PROJECT\Kursovaja ChromeDino\Dino\obj\Debug\Dino.Properties.Resources.resources
+E:\PROJECT\Kursovaja ChromeDino\Dino\obj\Debug\Dino.csproj.GenerateResource.cache
+E:\PROJECT\Kursovaja ChromeDino\Dino\obj\Debug\Dino.csproj.CoreCompileInputs.cache
+E:\PROJECT\Kursovaja ChromeDino\Dino\bin\Debug\Dino.exe.config
+E:\PROJECT\Kursovaja ChromeDino\Dino\bin\Debug\Dino.exe
+E:\PROJECT\Kursovaja ChromeDino\Dino\bin\Debug\Dino.pdb
+E:\PROJECT\Kursovaja ChromeDino\Dino\obj\Debug\Dino.exe
+E:\PROJECT\Kursovaja ChromeDino\Dino\obj\Debug\Dino.pdb
